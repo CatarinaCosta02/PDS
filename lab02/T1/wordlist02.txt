@@ -1,0 +1,3 @@
+gato
+cebola;banana;mesa
+laranja caneca;tapete

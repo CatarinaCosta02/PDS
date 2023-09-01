@@ -1,0 +1,16 @@
+socorram        8     7,1     Right     
+amigo           5     8,1     Right     
+refem           5     1,8     Left      
+taco            4     3,2     DownRight 
+felino          6     6,1     Up        
+puro            4     2,8     DownLeft  
+lutar           5     2,6     Left      
+
+O . . M E F E R 
+N R A T U L . P 
+I T . . . . U . 
+L . A . . R . . 
+E . . C O . . . 
+F . . . O . . . 
+S O C O R R A M 
+A M I G O . . . 

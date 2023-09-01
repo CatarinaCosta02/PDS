@@ -1,0 +1,10 @@
+strategy and template
+
+O padrão Strategy pode ser aplicado para cumprir estes requisitos.
+O padrão Strategy permite selecionar facilmente um algoritmo em tempo de execução, de acordo com as necessidades específicas do programa.
+Define uma família de algoritmos e encapsula cada um deles. 
+Desta forma, é possível selecionar o algoritmo de ordenação mais adequado no momento da execução, sem alterar o código que utiliza o algoritmo de ordenação.
+
+https://codeshare.io/r9D7wY
+https://docs.oracle.com/en/java/javase/11/docs/api/index.html
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/InputStream.html

@@ -1,0 +1,6 @@
+penalti         7     9,9     Left      
+banana          6     1,12    DownLeft  
+beber           5     6,2     Up        
+cesto           5     8,6     Up        
+rato            4     10,2    Up        
+luz             3     1,4     Left      

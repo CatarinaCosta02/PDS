@@ -1,0 +1,23 @@
+joao            4     12,3    UpRight   
+tiago           5     1,9     Down      
+rafael          6     6,5     Up        
+casemiro        8     10,11   Up        
+oliver          6     12,6    Right     
+sebastiao       9     15,1    UpRight   
+chuva           5     4,2     Down      
+
+. . . . L . . . T . . . . . . 
+. . . . E . . . I . . . . . . 
+. . . . A . . . A . O . . . . 
+. C . . F . . . G . R . . . . 
+. H . . A . . . O . I . . . . 
+. U . . R . . . . . M . . . . 
+. V . . . . . . O . E . . . . 
+. A . . . . . A . . S . . . . 
+. . . . . O I . . . A . . . . 
+. . . . A T . . . . C . . . . 
+. . . O S . . . . . . . . . . 
+. . J A . O L I V E R . . . . 
+. . B . . . . . . . . . . . . 
+. E . . . . . . . . . . . . . 
+S . . . . . . . . . . . . . . 
